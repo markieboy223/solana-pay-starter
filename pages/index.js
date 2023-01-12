@@ -1,5 +1,6 @@
 import React from "react";
 import HeadComponent from '../components/Head';
+import NavBar from "../components/NavBar";
 
 // Constants
 const TWITTER_HANDLE = "_buildspace";
@@ -9,16 +10,18 @@ const App = () => {
   
   
   return (
+  <>
+  <NavBar/> 
     <div className="App">
       <HeadComponent/>
       <div className="container">
         <header className="header-container">
-          <p className="header"> 😳 Buildspace Emoji Store 😈</p>
-          <p className="sub-text">The only emoji store that accepts sh*tcoins</p>
+          <p className="header"> 😳 Buildspace Solpaper (wallpaper) Store 😈</p>
+          <p className="sub-text">The only wallpaper store that accepts sh*tcoins</p>
         </header>
 
         <main>
-          <img src="https://media.giphy.com/media/eSwGh3YK54JKU/giphy.gif" alt="emoji" />
+          <img src="https://media.giphy.com/media/iHD88spVFkL7mZakwa/giphy.gif" alt="emoji" />
         </main>
 
         <div className="footer-container">
@@ -32,6 +35,7 @@ const App = () => {
         </div>
       </div>
     </div>
+    </>
   );
 };
 
