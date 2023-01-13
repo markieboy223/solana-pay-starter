@@ -1,11 +1,18 @@
 [
-    {
-      "id": 1,
-      "name": "man near Torii gate",
-      "price": "0.01",
-      "description": "Get this dope wallpaper for only $0.01! Includes 3 hot wallpapers: man near Torii gate, Digital Portal, and Fantasy World!",
-      "image_url": "https://c4.wallpaperflare.com/wallpaper/246/739/689/digital-digital-art-artwork-illustration-abstract-hd-wallpaper-preview.jpg",
-      "filename": "DopeWallpaperPack.zip",
-      "hash": "QmbtkYFpJffX8XoduSvCRESgAKnUf1fXkfTwbELRjini4v"
-    }
-  ]
+  {
+    "id": 1,
+    "name": "man near Torii gate",
+    "price": "0.01",
+    "description": "Get this dope wallpaper for only $0.01! Includes 3 hot wallpapers: man near Torii gate, Digital Portal, and Fantasy World!",
+    "image_url": "https://c4.wallpaperflare.com/wallpaper/246/739/689/digital-digital-art-artwork-illustration-abstract-hd-wallpaper-preview.jpg",
+    "filename": "DopeWallpaperPack.zip",
+    "hash": "QmbtkYFpJffX8XoduSvCRESgAKnUf1fXkfTwbELRjini4v"
+  },
+  {
+    "id": 2,
+    "name": "Discord Crypto Man Bot",
+    "price": "0.10 USDC",
+    "image_url": "https://media.giphy.com/media/StKiS6x698JAl9d6cx/giphy.gif",
+    "description": "A crypto bot that will provide you with all the information you will need about cryptocurrencies."
+  }
+]
